@@ -24,7 +24,7 @@ public class Main{
 					}
 			else {
 				out.print("N");
-				if (n <y) {out.print("O\n");}
+				if (n <x) {out.print("O\n");}
 				else {out.print("E\n");}
 				
 			}
